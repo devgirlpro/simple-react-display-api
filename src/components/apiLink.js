@@ -1,0 +1,1 @@
+export const apiLink = "https://www.boredapi.com/api/activity"
